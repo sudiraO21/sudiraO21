@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @sudiraO21
-- 👀 I’m interested in Data Science & Web Development
-- 🌱 I’m currently learning Back End Development
-- 📫 How to reach me tangguhsudirao@gmail.com
+- 🌱 I’m an Engineer at Volcanological Survey of Indonesia
+- 👀 Interested in Data Science & Web Development
+- 📫 How to reach me Tangguh.Oktafiandariento@esdm.go.id
 
 <!---
 sudiraO21/sudiraO21 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
