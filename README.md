@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @sudiraO21
-- 🌱 I’m an Engineer at Volcanology Survey Indonesia
+- 🌋 I’m an Engineer at Volcanology Survey Indonesia
 - 👀 Interested in Data Science & Web Development
 - 📫 How to reach me Tangguh.Oktafiandariento@esdm.go.id
 
