@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @tangguhsudirao
-- 🌋 I’m an Engineer at Volcanology Survey Indonesia
+- 🌋 I’m an Engineer at Volcanology Survey Indonesia, Ministry of Energy & Mineral Resources
 - 👀 Interested in Data Science & Web Development
 - 📫 How to reach me Tangguh.Oktafiandariento@esdm.go.id
 
